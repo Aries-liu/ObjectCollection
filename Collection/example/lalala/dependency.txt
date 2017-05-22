@@ -1,0 +1,7 @@
+object Name ,  group Name
+%class.A*-a,352457
+%class.B*-b,2198824686827
+%class.M**-e,2198824686827
+%class.M*-c,352457
+i32*-i,2198824686827
+i32*-retval,2198824686827
